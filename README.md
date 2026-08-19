@@ -32,7 +32,6 @@
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="180" style="border-radius: 50%;"  src="https://images3.alphacoders.com/774/thumb-1920-774574.jpg"  />
-
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
 
 ###

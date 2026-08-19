@@ -2,15 +2,11 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/edxzbatz/edxzbatz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/edxzbatz/edxzbatz/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
 <img data-importer="image" align="right" height="180" src="https://avatars.githubusercontent.com/u/296318449?v=4"  />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7wEWwKMaRmL8bCr11SYcNQFtTuvSWgF0QRa9qdqYSg&s=10" />
+
 
 ###
 

@@ -32,6 +32,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/edxzbatz/edxzbatz/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="image" align="right" height="180" src="file:///C:/Users/Aluno/Downloads/DADE.png"  />
+
 
 ###

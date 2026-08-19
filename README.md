@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="180" src="https://images3.alphacoders.com/774/thumb-1920-774574.jpg"  />
+<img data-importer="image" align="left" height="180" border-radius="10px" src="https://images3.alphacoders.com/774/thumb-1920-774574.jpg"  />
 
 
 ###

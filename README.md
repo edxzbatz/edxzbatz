@@ -8,7 +8,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="180" src="https://i.pinimg.com/1200x/dc/00/eb/dc00ebc8d85a3cf802aecb502cf7e212.jpg"  />
+<img data-importer="image" align="right" height="180" src="https://media.tenor.com/m3r_8NhxM9MAAAAM/cat-clapping-ai-cat-clapping.gif"  />
 
 
 ###

@@ -8,7 +8,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="180" src="https://i.pinimg.com/1200x/dc/00/eb/dc00ebc8d85a3cf802aecb502cf7e212.jpg"  />
+<img style="border-radius: 10" data-importer="image" align="right" height="180" src="https://i.pinimg.com/1200x/dc/00/eb/dc00ebc8d85a3cf802aecb502cf7e212.jpg"  />
 
 
 ###

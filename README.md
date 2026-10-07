@@ -8,7 +8,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="180" src="https://media.tenor.com/m3r_8NhxM9MAAAAM/cat-clapping-ai-cat-clapping.gif"  />
+<img data-importer="image" align="right" height="180" src="https://media.tenor.com/JUdH_yIo3VgAAAAm/super-bad-mario-old.webp"  />
 
 
 ###

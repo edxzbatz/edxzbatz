@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://t4.ftcdn.net/jpg/06/48/59/03/240_F_648590318_7GHJcu4TdWrSloIuCxWOXHVYFbUJ2Rc2.jpg"  />
 </div>
 
 ###
